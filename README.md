@@ -1,4 +1,4 @@
-#Hey there, I'm Mauro Gonçalves, 29, and I've recently decided to change my life and start programming.
+#Hey there, I'm Mauro Gonçalves, 29, and I've recently decided to change my life and start programming. <br />
 ##For now I've started my studies with HTML and CSS, and after I intend to learn Java and Python.
 ###Eventually I intend to find work in Web Development, or another area, but for now I'm still getting to know the programming world.
 ####If you want or need to contact me, you can use my e-mail: 
